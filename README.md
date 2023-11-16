@@ -9,7 +9,7 @@ tbl_fabricante_categoria_producto
 ![image](https://github.com/JonatanMVJ/UIII-Act-4-crud-relacional-varias-tablas/assets/143743615/0ab40b97-4daa-4c14-8545-a57b818814ff)
 ![image](https://github.com/JonatanMVJ/UIII-Act-4-crud-relacional-varias-tablas/assets/143743615/6e8674dc-f97d-4e01-baba-cce9b89cb7f5)
 ![image](https://github.com/JonatanMVJ/UIII-Act-4-crud-relacional-varias-tablas/assets/143743615/dee1010a-430c-4f2d-b178-52931ec18c88)
-![image](https://github.com/JonatanMVJ/UIII-Act-4-crud-relacional-varias-tablas/assets/143743615/fc697332-00be-470f-b8a9-39e573857ff0)
+
 
 
 
